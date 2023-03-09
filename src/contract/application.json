@@ -1,0 +1,118 @@
+{
+    "hints": {},
+    "source": {
+        "approval": "I3ByYWdtYSB2ZXJzaW9uIDgKaW50Y2Jsb2NrIDAgMQpieXRlY2Jsb2NrIDB4NjE2ZDZmNzU2ZTc0NTI2MTY5NzM2NTY0IDB4IDB4NjE2ZDZmNzU2ZTc0NGU2NTY1NjQ2NTY0IDB4NmU2MTZkNjUgMHg2OTZkNjE2NzY1NTU1MjRjIDB4NjQ2NTczNjM3MjY5NzA3NDY5NmY2ZSAweDY0NjE3NDY1CnR4bmEgQXBwbGljYXRpb25BcmdzIDAKcHVzaGJ5dGVzIDB4NWY2MmM0YzEgLy8gImNyZWF0ZShzdHJpbmcsc3RyaW5nLHN0cmluZyx1aW50NjQpdm9pZCIKPT0KYm56IG1haW5fbDYKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMApwdXNoYnl0ZXMgMHhlYjI4NjQyMSAvLyAiZG9uYXRlKHBheSl2b2lkIgo9PQpibnogbWFpbl9sNQp0eG5hIEFwcGxpY2F0aW9uQXJncyAwCnB1c2hieXRlcyAweDg1NzFiN2Q4IC8vICJlZGl0QXBwbGljYXRpb24oc3RyaW5nLHN0cmluZyxzdHJpbmcsdWludDY0LHVpbnQ2NCl2b2lkIgo9PQpibnogbWFpbl9sNAplcnIKbWFpbl9sNDoKdHhuIE9uQ29tcGxldGlvbgppbnRjXzAgLy8gTm9PcAo9PQp0eG4gQXBwbGljYXRpb25JRAppbnRjXzAgLy8gMAohPQomJgphc3NlcnQKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMQpzdG9yZSA1CnR4bmEgQXBwbGljYXRpb25BcmdzIDIKc3RvcmUgNgp0eG5hIEFwcGxpY2F0aW9uQXJncyAzCnN0b3JlIDcKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgNApidG9pCnN0b3JlIDgKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgNQpidG9pCnN0b3JlIDkKbG9hZCA1CmxvYWQgNgpsb2FkIDcKbG9hZCA4CmxvYWQgOQpjYWxsc3ViIGVkaXRBcHBsaWNhdGlvbl8zCmludGNfMSAvLyAxCnJldHVybgptYWluX2w1Ogp0eG4gT25Db21wbGV0aW9uCmludGNfMCAvLyBOb09wCj09CnR4biBBcHBsaWNhdGlvbklECmludGNfMCAvLyAwCiE9CiYmCmFzc2VydAp0eG4gR3JvdXBJbmRleAppbnRjXzEgLy8gMQotCnN0b3JlIDQKbG9hZCA0Cmd0eG5zIFR5cGVFbnVtCmludGNfMSAvLyBwYXkKPT0KYXNzZXJ0CmxvYWQgNApjYWxsc3ViIGRvbmF0ZV8yCmludGNfMSAvLyAxCnJldHVybgptYWluX2w2Ogp0eG4gT25Db21wbGV0aW9uCmludGNfMCAvLyBOb09wCj09CnR4biBBcHBsaWNhdGlvbklECmludGNfMCAvLyAwCj09CiYmCmFzc2VydAp0eG5hIEFwcGxpY2F0aW9uQXJncyAxCnN0b3JlIDAKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMgpzdG9yZSAxCnR4bmEgQXBwbGljYXRpb25BcmdzIDMKc3RvcmUgMgp0eG5hIEFwcGxpY2F0aW9uQXJncyA0CmJ0b2kKc3RvcmUgMwpsb2FkIDAKbG9hZCAxCmxvYWQgMgpsb2FkIDMKY2FsbHN1YiBjcmVhdGVfMQppbnRjXzEgLy8gMQpyZXR1cm4KCi8vIGF1dGhfb25seQphdXRob25seV8wOgpnbG9iYWwgQ3JlYXRvckFkZHJlc3MKPT0KcmV0c3ViCgovLyBjcmVhdGUKY3JlYXRlXzE6CnN0b3JlIDEzCnN0b3JlIDEyCnN0b3JlIDExCnN0b3JlIDEwCmxvYWQgMTAKZXh0cmFjdCAyIDAKYnl0ZWNfMSAvLyAiIgohPQphc3NlcnQKbG9hZCAxMQpleHRyYWN0IDIgMApieXRlY18xIC8vICIiCiE9CmFzc2VydApsb2FkIDEyCmV4dHJhY3QgMiAwCmJ5dGVjXzEgLy8gIiIKIT0KYXNzZXJ0CmxvYWQgMTMKaW50Y18wIC8vIDAKPgphc3NlcnQKdHhuIE5vdGUKcHVzaGJ5dGVzIDB4NDY3NTZlNjQ0OTRlNDY1NTZlNjQ0OTRlM2EyMDc1NzYzMSAvLyAiRnVuZElORlVuZElOOiB1djEiCj09CmFzc2VydApieXRlY18zIC8vICJuYW1lIgpsb2FkIDEwCmV4dHJhY3QgMiAwCmFwcF9nbG9iYWxfcHV0CmJ5dGVjIDQgLy8gImltYWdlVVJMIgpsb2FkIDExCmV4dHJhY3QgMiAwCmFwcF9nbG9iYWxfcHV0CmJ5dGVjIDUgLy8gImRlc2NyaXB0aW9uIgpsb2FkIDEyCmV4dHJhY3QgMiAwCmFwcF9nbG9iYWxfcHV0CmJ5dGVjIDYgLy8gImRhdGUiCmJ5dGVjIDYgLy8gImRhdGUiCmFwcF9nbG9iYWxfZ2V0Cmdsb2JhbCBMYXRlc3RUaW1lc3RhbXAKKwphcHBfZ2xvYmFsX3B1dApieXRlY18yIC8vICJhbW91bnROZWVkZWQiCmxvYWQgMTMKYXBwX2dsb2JhbF9wdXQKcmV0c3ViCgovLyBkb25hdGUKZG9uYXRlXzI6CnN0b3JlIDE0CmJ5dGVjXzIgLy8gImFtb3VudE5lZWRlZCIKYXBwX2dsb2JhbF9nZXQKYnl0ZWNfMCAvLyAiYW1vdW50UmFpc2VkIgphcHBfZ2xvYmFsX2dldAo8CmFzc2VydApsb2FkIDE0Cmd0eG5zIEFtb3VudAppbnRjXzAgLy8gMAo+CmFzc2VydApsb2FkIDE0Cmd0eG5zIFJlY2VpdmVyCmdsb2JhbCBDdXJyZW50QXBwbGljYXRpb25BZGRyZXNzCj09CmFzc2VydApieXRlY18wIC8vICJhbW91bnRSYWlzZWQiCmJ5dGVjXzAgLy8gImFtb3VudFJhaXNlZCIKYXBwX2dsb2JhbF9nZXQKbG9hZCAxNApndHhucyBBbW91bnQKKwphcHBfZ2xvYmFsX3B1dApyZXRzdWIKCi8vIGVkaXRBcHBsaWNhdGlvbgplZGl0QXBwbGljYXRpb25fMzoKc3RvcmUgMTkKc3RvcmUgMTgKc3RvcmUgMTcKc3RvcmUgMTYKc3RvcmUgMTUKdHhuIFNlbmRlcgpjYWxsc3ViIGF1dGhvbmx5XzAKLy8gdW5hdXRob3JpemVkCmFzc2VydApieXRlY18zIC8vICJuYW1lIgpsb2FkIDE1CmV4dHJhY3QgMiAwCmFwcF9nbG9iYWxfcHV0CmJ5dGVjIDQgLy8gImltYWdlVVJMIgpsb2FkIDE2CmV4dHJhY3QgMiAwCmFwcF9nbG9iYWxfcHV0CmJ5dGVjIDUgLy8gImRlc2NyaXB0aW9uIgpsb2FkIDE3CmV4dHJhY3QgMiAwCmFwcF9nbG9iYWxfcHV0CmJ5dGVjXzIgLy8gImFtb3VudE5lZWRlZCIKbG9hZCAxOAphcHBfZ2xvYmFsX3B1dApieXRlY18wIC8vICJhbW91bnRSYWlzZWQiCmxvYWQgMTkKYXBwX2dsb2JhbF9wdXQKcmV0c3Vi",
+        "clear": "I3ByYWdtYSB2ZXJzaW9uIDgKcHVzaGludCAwIC8vIDAKcmV0dXJu"
+    },
+    "schema": {
+        "local": {
+            "declared": {},
+            "reserved": {}
+        },
+        "global": {
+            "declared": {
+                "name": {
+                    "type": "bytes",
+                    "key": "name",
+                    "descr": ""
+                },
+                "imageURL": {
+                    "type": "bytes",
+                    "key": "imageURL",
+                    "descr": ""
+                },
+                "description": {
+                    "type": "bytes",
+                    "key": "description",
+                    "descr": ""
+                },
+                "date": {
+                    "type": "uint64",
+                    "key": "date",
+                    "descr": ""
+                },
+                "amountNeeded": {
+                    "type": "uint64",
+                    "key": "amountNeeded",
+                    "descr": ""
+                },
+                "amountRaised": {
+                    "type": "uint64",
+                    "key": "amountRaised",
+                    "descr": ""
+                }
+            },
+            "reserved": {}
+        }
+    },
+    "contract": {
+        "name": "FundIN",
+        "methods": [
+            {
+                "name": "create",
+                "args": [
+                    {
+                        "type": "string",
+                        "name": "name"
+                    },
+                    {
+                        "type": "string",
+                        "name": "imageURL"
+                    },
+                    {
+                        "type": "string",
+                        "name": "description"
+                    },
+                    {
+                        "type": "uint64",
+                        "name": "amountNeeded"
+                    }
+                ],
+                "returns": {
+                    "type": "void"
+                }
+            },
+            {
+                "name": "donate",
+                "args": [
+                    {
+                        "type": "pay",
+                        "name": "paymentTxn"
+                    }
+                ],
+                "returns": {
+                    "type": "void"
+                }
+            },
+            {
+                "name": "editApplication",
+                "args": [
+                    {
+                        "type": "string",
+                        "name": "name"
+                    },
+                    {
+                        "type": "string",
+                        "name": "imageURL"
+                    },
+                    {
+                        "type": "string",
+                        "name": "description"
+                    },
+                    {
+                        "type": "uint64",
+                        "name": "amountNeeded"
+                    },
+                    {
+                        "type": "uint64",
+                        "name": "amountRaised"
+                    }
+                ],
+                "returns": {
+                    "type": "void"
+                }
+            }
+        ],
+        "networks": {}
+    }
+}
